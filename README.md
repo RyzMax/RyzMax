@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @RyzMax or Tozavi
-- 👀 I’m interested in 3D modeling and programming, I know C++, C#
+- 👋 Hi, I’m @RyzMax or Kawij0
+- 👀 I’m interested in 3D modeling and programming, I know C++, C#, JavaScript, HTML, Java
 - 🌱 I’m currently learning blender
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm left-handed :P
-- 🌠 My dream is to make my own game ^_^
-- 🎶 Musical taste: I enjoy all types of music, from classical to rock and everything in between ヾ(•ω•`)o
+- ⚡ Fun fact: I'm left-handed 
+- 🌠 My dream is to make my own game 
+- 🎶 Musical taste: I enjoy all types of music, from classical to rock and everything in between 
 
-console.writeline("I love u, guys!")
+console.writeline("Hello People!")
 
