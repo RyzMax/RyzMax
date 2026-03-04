@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VvNWNyNXY3ZW1ybHl6c3c5bDVrcWhxOXFhd3BuazhyZjRwaWc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4gqqiLO7K89xu4hjz/giphy.gif"  />
+</div>
+
+
 - 👋 Hi, I’m @RyzMax or Kawij0
 - 👀 I’m interested in 3D modeling and programming, I know C++, C#, JavaScript, HTML+CSS, Java
 - 🌱 I’m currently learning blender
